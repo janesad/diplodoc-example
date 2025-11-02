@@ -1,4 +1,4 @@
-# Documentation Template created by Diplodoc
+# Техническая документация Biosmart
 
 Features:
 
